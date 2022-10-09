@@ -1,1 +1,1 @@
-# to be continued..
+# Just simple Pandas operations for learn.
