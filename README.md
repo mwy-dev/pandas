@@ -1,1 +1,1 @@
-# Just simple Pandas operations for learn.
+# Just simple Pandas operations to learn.
